@@ -43,7 +43,7 @@ public class AboutMeTryCatch {
         String sobrenome = scanner.next();
 
         int idade = 0;
-        double altura = 0.0;
+        double altura = 0.00;
 
         boolean dadosCorretos = false;
 
