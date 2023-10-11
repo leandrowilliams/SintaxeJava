@@ -20,4 +20,5 @@ public class ProcessoSeletivo {
             System.out.println("Aguardando o resultado dos demais candidatos");
         }
     }
+    //melhorar depois
 }
